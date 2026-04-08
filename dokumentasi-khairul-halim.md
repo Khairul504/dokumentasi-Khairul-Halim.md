@@ -9,4 +9,4 @@ Extension (Nomor internal): empat digit terakhir NIM (contoh: jika NIM = 6070524
 membuat Push ke repositori dengan aturan branching berikut:
 Format nama branch: nama-nim
 Contoh: Khairul-0017, seperti gambar dibawah ini:
-![alt text](gambar2.png)
+![alt text](img/gambar2.png)
