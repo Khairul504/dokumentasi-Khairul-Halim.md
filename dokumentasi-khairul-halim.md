@@ -5,4 +5,4 @@ Tambahkan user/extension dengan ketentuan berikut:
 Username: Nama lengkap atau nama depan
 Extension (Nomor internal): empat digit terakhir NIM (contoh: jika NIM = 607052430017, maka extension = 0017)
 
-![alt text](img/photo_2026-04-07_20-40-00.jpg)
+![alt text](img/Screenshot 2026-04-08 100202.jpg) 
