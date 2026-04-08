@@ -10,3 +10,5 @@ membuat Push ke repositori dengan aturan branching berikut:
 Format nama branch: nama-nim
 Contoh: Khairul-0017, seperti gambar diatas:
 ![alt text](img/gambar2.png)
+kendalanya user sama passwordnya saya lupa hehe:(
+![alt text](img/gambar3.png)
